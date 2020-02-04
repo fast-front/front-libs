@@ -1,0 +1,25 @@
+{
+  "name": "front-share",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rk-tech0000/front-share.git"
+  },
+  "author": "rk-tech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rk-tech0000/front-share/issues"
+  },
+  "homepage": "https://github.com/rk-tech0000/front-share#readme",
+  "dependencies": {
+    "typescript": "^3.7.4"
+  }
+}
